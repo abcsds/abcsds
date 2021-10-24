@@ -1,5 +1,4 @@
-# Behavioural Data Analyst
-Currently working as a PhD candidate at the [Institue of Neural Engineering TUGraz](https://www.tugraz.at/institute/ine/home/).
+Behavioural Data Analyst currently working as a PhD candidate at the [Institue of Neural Engineering TUGraz](https://www.tugraz.at/institute/ine/home/).
 
 Find repositories related to data analysis, natural language processing, deep learning, EEG processing, scientific programming, science management and administration, and some other personal projects.
 
