@@ -11,4 +11,5 @@ If you are in one of my supervised students, or currently taking one of my cours
 
 [![NPLab](https://github-readme-stats.vercel.app/api/pin/?username=abcsds&repo=NPLab)](https://github.com/abcsds/NPLab)
 [![RSVP template](https://github-readme-stats.vercel.app/api/pin/?username=abcsds&repo=RSVP)](https://github.com/abcsds/RSVP)
-[![RSVP template](https://github-readme-stats.vercel.app/api/pin/?username=abcsds&repo=OnlineBCI)](https://github.com/abcsds/OnlineBCI)
+[![OnlineBCI](https://github-readme-stats.vercel.app/api/pin/?username=abcsds&repo=OnlineBCI)](https://github.com/abcsds/OnlineBCI)
+[![template-project](https://github-readme-stats.vercel.app/api/pin/?username=WriessneggerLab&repo=template-project)](https://github.com/WriessneggerLab/template-project)
